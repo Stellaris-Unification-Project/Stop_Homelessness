@@ -1,0 +1,5 @@
+# Overcrowding
+planet_overcrowded = {
+	planet_emigration_push_add = 50
+if = { free_housing < 1 } pop_growth_speed = -100 planet_pop_assembly_mult = -100 planet_emigration_push_add = 100 }
+}
