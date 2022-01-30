@@ -10,5 +10,5 @@ tags={
 	"Utilities"
 }
 name="Stop Homelessness!"
-supported_version="3.*"
+supported_version="3.2.2"
 remote_file_id="2114378647"
